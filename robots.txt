@@ -1,0 +1,4 @@
+Sitemap: https://sharetech.live/sitemapindex.xml
+
+User-Agent: *
+Host: sharetech.live

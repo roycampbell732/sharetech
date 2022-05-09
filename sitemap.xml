@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://sharetech.live/</loc>
+  <lastmod>2022-05-09T17:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/archive.html</loc>
+  <lastmod>2022-05-09T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/categories/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/galleries/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/listings/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/pages/aboutus/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/pages/attributions/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sharetech.live/pages/learninggames/</loc>
+  <lastmod>2022-05-09T16:35:00Z</lastmod>
+ </url>
+</urlset>
