@@ -1,0 +1,15 @@
+[submodule "resources/blockly-games"]
+	path = resources/blockly-games
+	url = https://github.com/google/blockly-games
+[submodule "resources/css-diner"]
+	path = resources/css-diner
+	url = https://github.com/flukeout/css-diner
+[submodule "resources/flexboxfroggy"]
+	path = resources/flexboxfroggy
+	url = https://github.com/thomaspark/flexboxfroggy
+[submodule "resources/gridgarden"]
+	path = resources/gridgarden
+	url = https://github.com/thomaspark/gridgarden
+[submodule "resources/tower-defense"]
+	path = resources/tower-defense
+	url = https://github.com/channingallen/tower-defense
