@@ -9,7 +9,7 @@
 
 
 Javascript
-
+* `Blockly <https://blockly.game>`_
 * `Bitburner <https://danielyxie.github.io/bitburner>`_
 
 CSS
